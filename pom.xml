@@ -35,13 +35,11 @@
             <name>Lavalink Repository</name>
             <url>https://maven.lavalink.dev/releases</url>
         </repository>
-	    <repositories>
             <repository>
                 <id>mvnrepository</id>
                 <name>mvnrepository</name>
                 <url>http://www.mvnrepository.com</url>
             </repository>
-        </repositories>
     </repositories>
 
     <dependencies>
